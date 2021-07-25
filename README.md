@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kailash-tanniru
 - 👀 I’m interested in programming 
-- 🌱 I’m currently Data Science,Competitive programming.
+- 🌱 I’m currently learning Data Science and Competitive programming.
 
 
 <!---
