@@ -153,9 +153,10 @@
 <h3 align="center">Reach me</h3>
 
 <p align="center">
-  <a  href="https://www.linkedin.com/in/kailashtanniru/" target="_blank">
-    <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white/>
-  </a>
+  
+  <a  href="https://linkedin.com/in/kailashtanniru/" target="_blank">
+      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
+    </a>
   <a href="mailto:tannirukailash@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
     <img src="https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="example"/>
   </a>
@@ -172,10 +173,7 @@
 
 ----
 
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Kailash-tanniru/Kailash-tanniru/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
+
 
 
 - 👋 Hi, I’m @Kailash-tanniru
