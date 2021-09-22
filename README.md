@@ -154,10 +154,7 @@
 
 <p align="center">
   <a  href="https://www.linkedin.com/in/kailashtanniru/" target="_blank">
-    <img src="https://img.shields.io/badge/Linkedin-26A5E4.svg?style=for-the-badge&logo=linkedin&logoColor=white%22%20alt=%22example%22/>
-  </a>
-  <a  href="https://www.instagram.com/tanniru_kailash/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-26A5E4.svg?style=for-the-badge&logo=instagram&logoColor=white%22%20alt=%22example%22/>
+    <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white/>
   </a>
   <a href="mailto:tannirukailash@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
     <img src="https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="example"/>
