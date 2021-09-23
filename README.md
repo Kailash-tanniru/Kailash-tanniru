@@ -30,8 +30,7 @@
 <h3 align="center">Languages</h3>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"
-      alt="c"/>
+    <img src="https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social" alt="c++"/>
   </a>
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://img.shields.io/badge/Python-007396.svg?style=for-the-badge&logo=python&logoColor=white" 
