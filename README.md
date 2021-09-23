@@ -51,7 +51,7 @@
   </a>
 </p>
 
-<h3 align="center">Frontend</h3>
+<h3 align="center">Frontend Frameworks</h3>
 <p align="center">
   <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
@@ -60,7 +60,7 @@
 
 </p>
 
-<h3 align="center">Backend</h3>
+<h3 align="center">Backend Frameworks</h3>
 <p align="center">
   <a href="https://nodejs.org" target="_blank"> 
     <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
@@ -127,9 +127,7 @@
   <a href="https://eclipse.org" target="_blank">
     <img src="https://img.shields.io/badge/eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" alt="eclipse IDE"/> 
   </a>
-   <a href="https://sublimetext.org" target="_blank">
-    <img src="https://img.shields.io/badge/sublimetext-2C2255.svg?style=for-the-badge&logo=sublimetext&logoColor=white%22%20alt=%22sublimetext%20IDE/> 
-  </a>
+  
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
   </a>
